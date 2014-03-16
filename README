@@ -4,6 +4,12 @@ the case) are cropped and panned across the screen. This also resembles that Mac
 
 Check out the DEMO: www.subchild.com/slideshowify
 
+New Forked options:
+1 options to use images as a background parallax  Comming Soon!
+2 include scrolling text which is pulled from alt tags   Coming Soon!
+3 create modal version, ie. lightbox clone with ken burns effect
+
+
 @TODO add more configuration options: direction, css3 prog enhancement stuff
 @TODO fix the resizing business (force full screen and prevent resizing || add resize handler to adjust numbers)
 
